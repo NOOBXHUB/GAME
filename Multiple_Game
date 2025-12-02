@@ -1,3 +1,6 @@
-getgenv().Games = {
-  [136178978872141] = "https://raw.githubusercontent.com/NOOBXHUB/Wizard-Arena/refs/heads/main/Premium.lua"
-}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Game/refs/heads/main/Loading"))()
+for PlaceID, Execute in pairs(Games) do
+    if PlaceID == game.PlaceId then
+        loadstring(game:HttpGet(Execute))()
+    end
+end
