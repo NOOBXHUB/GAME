@@ -1,0 +1,4 @@
+getgenv().Games = {
+  [10253248401] = "https://raw.githubusercontent.com/NOOBHUBX/Elementa-lPowers-Tycoon/refs/heads/main/NOOBHUB.lua", -- Elemental Powers Tycoon
+  [136178978872141] = "https://raw.githubusercontent.com/NOOBHUBX/Wizard_Arena/refs/heads/main/BestScript.lua"
+}
