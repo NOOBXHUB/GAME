@@ -1,6 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/Game/refs/heads/main/Loading"))()
-for PlaceID, Execute in pairs(Games) do
-    if PlaceID == game.PlaceId then
-        loadstring(game:HttpGet(Execute))()
-    end
-end
+getgenv().Games = {
+  [10253248401] = "https://raw.githubusercontent.com/NOOBHUBX/Elementa-lPowers-Tycoon/refs/heads/main/NOOBHUB.lua",
+  [136178978872141] = "https://raw.githubusercontent.com/NOOBHUBX/Wizard_Arena/refs/heads/main/BestScript.lua"
+}
