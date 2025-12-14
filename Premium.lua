@@ -1,6 +1,7 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBXHUB/GAME/refs/heads/main/Loading"))()
-for PlaceID, Execute in pairs(Games) do
-    if PlaceID == game.PlaceId then
-        loadstring(game:HttpGet(Execute))()
-    end
+local Games = loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBXHUB/GAME/refs/heads/main/Loading"))()
+
+local FoundGame = Games[game.PlaceId] or Games[game.GameId] or nil
+
+if FoundGame then
+    loadstring(game:HttpGet(FoundGame))()
 end
