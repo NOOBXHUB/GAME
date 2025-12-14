@@ -1,5 +1,4 @@
 return {
-  [10253248401] = "https://raw.githubusercontent.com/NOOBHUBX/Elementa-lPowers-Tycoon/refs/heads/main/NOOBHUB.lua", -- Elemental Powers Tycoon
-  [136178978872141] = "https://raw.githubusercontent.com/NOOBHUBX/Wizard_Arena/refs/heads/main/BestScript.lua", -- Wizard_Arena
-  [7798947148] = "https://raw.githubusercontent.com/NOOBHUBX/Anime_Final_Quest/refs/heads/main/.lua", -- Anime_Final_Quest
+  [136178978872141] = "https://raw.githubusercontent.com/NOOBXHUB/Wizard-Arena/refs/heads/main/Premium.lua", -- Wizard_Arena
+  [7798947148] = "https://raw.githubusercontent.com/NOOBXHUB/Anime_Final_Quest/refs/heads/main/Premium.lua", -- Anime_Final_Quest
 }
