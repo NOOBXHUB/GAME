@@ -1,4 +1,4 @@
 return {
-  [136178978872141] = "https://raw.githubusercontent.com/NOOBXHUB/Wizard-Arena/refs/heads/main/Premium.lua", -- Wizard_Arena
-  [7798947148] = "https://raw.githubusercontent.com/NOOBXHUB/Anime_Final_Quest/refs/heads/main/Premium.lua", -- Anime_Final_Quest
+  [136178978872141] = "https://api.realaya.xyz/v1/files/l/ngbylp4h42j1ih89bi3p8ysyv9mo8wfs.lua", -- Wizard_Arena
+  [7798947148] = "https://api.realaya.xyz/v1/files/l/rb2e0y1blmedywnn9qe8014dd1skggbn.lua", -- Anime_Final_Quest
 }
